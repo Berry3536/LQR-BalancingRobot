@@ -16,9 +16,9 @@ Updated : 2023-08-09
 
 <br/><br/><br/>
 ## Chapter 2. MATLAB simulation
-### 2-1. Segway modeling on Simscape Multibody
+### 2-1. Segway modeling on simscape multibody
 
-### 2-2. LQR Balancing simulation
+### 2-2. LQR balancing simulation
 
 ### 2-3. Results
 
