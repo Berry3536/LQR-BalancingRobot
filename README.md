@@ -5,34 +5,41 @@ Goal    : Self-balancing of segway using LQR
 
 Updated : 2023-08-09
 
-
 <br/><br/>
+## Ⅰ. Introduction
 
-## Chapter 1. Linear Quadratic Regulator
-### 1-1. Optimal control
-
-### 1-2. LQR
 
 
 <br/><br/><br/>
-## Chapter 2. MATLAB simulation
-### 2-1. Segway modeling on simscape multibody
+## Ⅱ. Linear Quadratic Regulator
+### 1. Optimal control
 
-### 2-2. LQR balancing simulation
+### 2. LQR
 
-### 2-3. Results
 
 
 <br/><br/><br/>
-## Chapter 3. LQR Balancing Segway
-### 2-1. System modeling
+## Ⅲ. MATLAB simulation
+### 1. Segway modeling on simscape multibody
 
-### 2-2. Linearization
+### 2. LQR balancing simulation
 
-### 2-3. State & Constraint
+### 3. Results
 
-### 2-4. Optimization
 
-### 2-5. Fine tuning
 
-### 2-6. Results
+<br/><br/><br/>
+## Ⅳ. LQR Balancing Segway
+### 1. System modeling
+
+### 2. Linearization
+
+### 3. State & Constraint
+
+### 4. Optimization
+
+### 5. Fine tuning
+
+### 6. Results
+
+
