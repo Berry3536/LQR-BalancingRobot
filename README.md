@@ -3,6 +3,8 @@ Author   : Janguk Kim
 
 Goal    : Self-balancing of segway using LQR
 
+Previous project : https://github.com/Berry3536/PID-BalancingSegway 
+
 Updated : 2023-08-09
 
 <br/><br/>
