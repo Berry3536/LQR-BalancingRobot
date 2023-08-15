@@ -1,7 +1,7 @@
 # LQR-BalancingSegway
 Author   : Janguk Kim
 
-Goal    : LQR Self-balancing control of a segway platform
+Goal    : LQR self-balancing control of a segway platform
 
 Previous project : https://github.com/Berry3536/PID-BalancingSegway 
 
