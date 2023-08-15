@@ -1,4 +1,4 @@
-# LQR-BalancingSegway
+# BalancingSegway_LQRcontroller
 Author   : Janguk Kim
 
 Goal    : LQR self-balancing control of a segway platform
@@ -7,16 +7,23 @@ Previous project : https://github.com/Berry3536/PID-BalancingSegway
 
 Updated : 2023-08-15
 
+
+
 <br/><br/>
 ## Ⅰ. Introduction
 
 
 
+
+
 <br/><br/><br/>
 ## Ⅱ. Model concept
+
 ### 1. Requirement
 
 ### 2. MATLAB simulation
+
+
 
 
 
@@ -34,11 +41,16 @@ Updated : 2023-08-15
 
 
 
+
+
+
 <br/><br/><br/>
 ## Ⅳ. Results
 
 ### 1. Tracking target state
 
 ### 2. Disturbance rejection
+
+
 
 
