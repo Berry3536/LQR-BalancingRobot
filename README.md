@@ -19,6 +19,7 @@ Updated : 2023-08-15
 ### 2. MATLAB simulation
 
 
+
 <br/><br/><br/>
 ## Ⅲ. LQR balancing controller design
 
@@ -26,11 +27,11 @@ Updated : 2023-08-15
 
 ### 2. System modeling
 
-### 3. Constraint
+### 3. Optimization
 
-### 4. Optimization
+### 4. Fine tuning
 
-### 5. Fine tuning
+
 
 
 <br/><br/><br/>
