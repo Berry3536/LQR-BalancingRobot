@@ -1,11 +1,11 @@
 # LQR-BalancingSegway
 Author   : Janguk Kim
 
-Goal    : Self-balancing of segway using LQR
+Goal    : LQR Self-balancing control of a segway platform
 
 Previous project : https://github.com/Berry3536/PID-BalancingSegway 
 
-Updated : 2023-08-09
+Updated : 2023-08-015
 
 <br/><br/>
 ## Ⅰ. Introduction
@@ -13,35 +13,31 @@ Updated : 2023-08-09
 
 
 <br/><br/><br/>
-## Ⅱ. Linear Quadratic Regulator
-### 1. Optimal control
+## Ⅱ. Model concept
+### 1. Requirement
 
-### 2. LQR
-
-
-
-<br/><br/><br/>
-## Ⅲ. MATLAB simulation
-### 1. Segway modeling on simscape multibody
-
-### 2. LQR balancing simulation
-
-### 3. Results
-
+### 2. MATLAB simulation
 
 
 <br/><br/><br/>
-## Ⅳ. LQR Balancing Segway
-### 1. System modeling
+## Ⅲ. LQR balancing controller design
 
-### 2. Linearization
+### 1. Control diagram
 
-### 3. State & Constraint
+### 2. System modeling
+
+### 3. Constraint
 
 ### 4. Optimization
 
 ### 5. Fine tuning
 
-### 6. Results
+
+<br/><br/><br/>
+## Ⅳ. Results
+
+### 1. Tracking target state
+
+### 2. Disturbance rejection
 
 
