@@ -5,7 +5,7 @@ Goal    : LQR Self-balancing control of a segway platform
 
 Previous project : https://github.com/Berry3536/PID-BalancingSegway 
 
-Updated : 2023-08-015
+Updated : 2023-08-15
 
 <br/><br/>
 ## Ⅰ. Introduction
