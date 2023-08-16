@@ -34,9 +34,11 @@ Updated : 2023-08-15
 
 ### 2. System modeling
 
-### 3. Optimization
+### 3. State equation
 
-### 4. Fine tuning
+### 4. Optimization
+
+### 5. Fine tuning
 
 
 
