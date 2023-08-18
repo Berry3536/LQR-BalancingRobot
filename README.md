@@ -21,7 +21,7 @@ Updated : 2023-08-15
 
 ### 1. Requirement
 
-### 2. MATLAB simulation
+### 2. LQR balancing simulation
 
 
 
@@ -55,4 +55,7 @@ Updated : 2023-08-15
 
 
 
+
+<br/><br/><br/>
+## Ⅴ. Conclusion
 
