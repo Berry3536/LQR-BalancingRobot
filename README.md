@@ -1,9 +1,7 @@
-# BalancingSegway_LQRcontroller
+# LQR BalancingRobot
 Author   : Janguk Kim
 
-Goal    : LQR self-balancing control of a segway platform
-
-Previous project : https://github.com/Berry3536/PID-BalancingSegway 
+Goal    :  Self-balancing control of a segway platform
 
 Updated : 2023-08-23
 
@@ -15,31 +13,25 @@ Updated : 2023-08-23
 
 
 
-
 <br/><br/><br/>
-## Ⅱ. Model description
+## Ⅱ. Model concept
 
 ### 1. Requirement
 
-### 2. LQR balancing simulation
+### 2. Simplified model
 
 
 
 
 
 <br/><br/><br/>
-## Ⅲ. LQR balancing controller design
+## Ⅲ. Hardware design
 
-### 1. Control diagram
+### 1. Arduino circuit
 
-### 2. System modeling
+### 2. Segway hardware
 
-### 3. State equation
-
-### 4. Optimization
-
-### 5. Fine tuning
-
+### 3. Hardware assembly
 
 
 
@@ -47,15 +39,15 @@ Updated : 2023-08-23
 
 
 <br/><br/><br/>
-## Ⅳ. Results
+## Ⅳ. Controller design
 
-### 1. Tracking target state
+### 1. PID control
 
-### 2. Disturbance rejection
+### 2. LQR control
 
 
 
 
 <br/><br/><br/>
-## Ⅴ. Conclusion
+## Ⅴ. Results
 
